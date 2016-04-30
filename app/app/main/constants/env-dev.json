@@ -1,8 +1,8 @@
 {
 
   "parse": {
-  	"appId": "myAppId",
-    "serverUrl": "http://localhost:1337/parse"
+  	"appId": "publiccry",
+    "serverUrl": "https://publiccry.herokuapp.com/"
   },
 
 	"push": {
